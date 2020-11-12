@@ -3,7 +3,13 @@ import pandas as pd
 import pycountry
 import streamlit as st
 
-weather = pd.read_csv("https://storage.googleapis.com/covid19-open-data/v2/weather.csv")
+st.title("Daily Weather Information")
+st.markdown("Reported by NOAA")
+
+weather = pd.read_csv("D:/Prabodh/Programs/COVID-19 Dataset/data/gcp/weather.csv")
+
+cl = pd.read_csv("https://raw.githubusercontent.com/prabodhw96/PRC/master/countries.csv")
+cl = list(cl["Country"])
 
 convert_dict = {"key": str}
 weather = weather.astype(convert_dict)
@@ -49,4 +55,16 @@ na_countries = list(set(na_countries))
 
 weather_updated = weather[~weather.key.isin(na_countries)]
 
-weather_updated.to_csv("weather.csv", index=False)
+import base64
+
+def download_link(object_to_download, download_filename, download_link_text):
+    if isinstance(object_to_download,pd.DataFrame):
+        object_to_download = object_to_download.to_csv(index=False)
+
+    b64 = base64.b64encode(object_to_download.encode()).decode()
+
+    return f'<a href="data:file/txt;base64,{b64}" download="{download_filename}">{download_link_text}</a>'
+
+if st.button('Download Dataframe as CSV'):
+    tmp_download_link = download_link(weather_updated, 'weather.csv', 'Click here to download')
+    st.markdown(tmp_download_link, unsafe_allow_html=True)
