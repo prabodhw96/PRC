@@ -24,7 +24,7 @@ Data updated daily latest by 9:30 AM EST.
 * **Link**: [Click here](https://drive.google.com/file/d/1-DMeDljCAiYEMI0F7BCLVc7ixWADUlmS/view?usp=sharing)
 * **Source**: Our World in Data
 * **Countries**: 179
-* **Link for cumulative global data**: [Click here](https://drive.google.com/file/d/1-0SjC6MQ4lzuS57vuVtYGRYa7Ul4evll/view?usp=sharing)
+* **Link to cumulative global data**: [Click here](https://drive.google.com/file/d/1-0SjC6MQ4lzuS57vuVtYGRYa7Ul4evll/view?usp=sharing)
 
 ## COVID-19 Testing Observations
 * **Link**: [Click here](https://drive.google.com/file/d/1-H3mS5Wvz6tNpC__2qRMwrKgKRTodtju/view?usp=sharing)
