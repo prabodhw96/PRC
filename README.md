@@ -20,6 +20,11 @@ Data updated daily latest by 9:30 AM EST.
 * **Source**: NOAA
 * **Countries**: 157
 
+## Historical Weather Data (1990-2019)
+**Link**: [Click here](https://drive.google.com/file/d/1aWwONcU51pVDf3qUpnYuSJXbLDdsVj_J/view?usp=sharing)
+* **Source**: NOAA
+* **Countries**: Varies (Each file is named as follows: year_num-countries.csv. Not all countries' data is available for every year. Min. 145, Max. 151).
+
 ## OWID COVID-19 Data
 * **Link**: [Click here](https://drive.google.com/file/d/1-DMeDljCAiYEMI0F7BCLVc7ixWADUlmS/view?usp=sharing)
 * **Source**: Our World in Data
