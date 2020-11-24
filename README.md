@@ -16,7 +16,7 @@ Data updated daily latest by 9:30 AM EST.
 * **Countries**: 132
 
 ## Daily Weather Data (Global)
-* **Link**: [Click here](https://drive.google.com/file/d/1-Q64OWPEqgYB_TrY1SoXlB0q148o6fKn/view?usp=sharing)
+* **Link**: [Click here](https://drive.google.com/file/d/1-0xsjdUMRs5nSLgK1t_LL2MrKt-Tu4SJ/view?usp=sharing)
 * **Source**: NOAA
 * **Countries**: 157
 
