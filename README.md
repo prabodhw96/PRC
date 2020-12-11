@@ -56,3 +56,8 @@ Data updated daily latest by 9:30 AM EST.
 * **Link**: [Click here](https://drive.google.com/file/d/1-JKRxl6d3PEgo4RjeMKpbVs1DsPTFavM/view?usp=sharing)
 * **Source**: Wikidata, WorldBank, Eurostat
 * **Countries**: 171
+
+## Age Structure by Country
+* **Link**: [Click here](https://drive.google.com/file/d/1Q3ER-Iy6oFHKlMoxiKpg0-w-2b_y_Qct/view?usp=sharing)
+* **Source**: [CIA Factbook](https://www.cia.gov/library/publications/the-world-factbook/fields/341.html#AL)
+* **Countries**: 178
