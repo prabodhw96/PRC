@@ -22,7 +22,7 @@ Data updated daily latest by 9:30 AM EST.
 * **Countries**: 157
 
 ## Weather Data (Jan. 2020 to Sep. 2020)
-**Link**: [Click here](https://drive.google.com/file/d/1EpDVi7aPE78uT_DWKvIDYR11noVfHwdx/view?usp=sharing)
+* **Link**: [Click here](https://drive.google.com/file/d/1EpDVi7aPE78uT_DWKvIDYR11noVfHwdx/view?usp=sharing)
 * **Source**: [Kaggle](https://www.kaggle.com/hansukyang/temperature-history-of-1000-cities-1980-to-2020)
 * **Countries**: 162 countries, 35 states of USA, 27 states of Brazil and 4 countries of UK
 
