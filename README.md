@@ -26,6 +26,11 @@ Data updated daily latest by 9:30 AM EST.
 * **Source**: [Kaggle](https://www.kaggle.com/hansukyang/temperature-history-of-1000-cities-1980-to-2020)
 * **Countries**: 162 countries, 35 states of USA, 27 states of Brazil and 4 countries of UK
 
+## Historical Weather Data - NOAA (1990-2019)
+* **Link**: [Click here](https://drive.google.com/file/d/1zgKSRDz4IpzSgVdOtob-neVK_4W70LY2/view?usp=sharing)
+* **Source**: NOAA
+* **Countries**: Varies (Each file is named as follows: year_num-countries.csv. Not all countries' data was available for every year. Min. 145, Max. 151).
+
 ## Historical Weather Data (January 1980 - September 2020)
 * **Link**: [Click here](https://drive.google.com/file/d/1QWbiKW2DM9rd8fBzd9VwrBF2724Y8NUF/view?usp=sharing)
 * **Source**: [Kaggle](https://www.kaggle.com/hansukyang/temperature-history-of-1000-cities-1980-to-2020)
