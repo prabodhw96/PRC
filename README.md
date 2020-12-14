@@ -36,6 +36,9 @@ Data updated daily latest by 9:30 AM EST.
 * **Source**: [Kaggle](https://www.kaggle.com/hansukyang/temperature-history-of-1000-cities-1980-to-2020)
 * Countries: 170
 
+## Temperature Data (per day per country for 2020 inc. feature for holiday)
+* Link: [Click here](https://drive.google.com/file/d/1bcd2iiW-IzMAjynMWq0FMyU3y3B1luZz/view?usp=sharing)
+
 ## OWID COVID-19 Data
 * **Link**: [Click here](https://drive.google.com/file/d/1-DMeDljCAiYEMI0F7BCLVc7ixWADUlmS/view?usp=sharing)
 * **Source**: Our World in Data
@@ -61,3 +64,6 @@ Data updated daily latest by 9:30 AM EST.
 * **Link**: [Click here](https://drive.google.com/file/d/1Q3ER-Iy6oFHKlMoxiKpg0-w-2b_y_Qct/view?usp=sharing)
 * **Source**: [CIA Factbook](https://www.cia.gov/library/publications/the-world-factbook/fields/341.html#AL)
 * **Countries**: 178
+
+## Additional Context Global Data and Age Structure by Country Combined File
+* Link: [Click here](https://drive.google.com/file/d/1GNAQKT0LPRSpQsfSIc-ET6IhS-9TbXQK/view?usp=sharing)
